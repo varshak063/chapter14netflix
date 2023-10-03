@@ -2,8 +2,14 @@
 -create-react-app
 -confiigure Tailwind CSS
 -Header
+-Routing
 -loginForm
 -signup form
+-form validation
+-useRef Hook
+-firebase settings
+-deploy on production
+-create signup and signin
 
 # Features
 
