@@ -9,7 +9,9 @@
 -useRef Hook
 -firebase settings
 -deploy on production
--create signup and signin
+-created signup and signin
+- created redux store with userslice
+-implement signout
 
 # Features
 
